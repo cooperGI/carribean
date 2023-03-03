@@ -1,0 +1,215 @@
+/* CSS Document */
+
+/* 
+font-family: 'Julee', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Raleway', sans-serif;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=Lobster&family=Raleway:wght@600&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.home{
+	background-image: url("../images/home_Beach.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+}
+
+.trunk{
+	background-image: url("../images/trunkBayBeach.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+}
+
+.shoal{
+	background-image: url("../images/ShoalBayEast.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+}
+
+.grace{
+	background-image: url("../images/GraceBayBeach.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+}
+
+.newsletter{
+	background-image: url("../images/newsletter_Beach.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+}
+
+
+.title{
+	font-family: 'Lobster', cursive;
+	font-size: 5em;
+	text-align: center;
+	color: #1E2045;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.welcome {
+	font-size: 30px;
+	text-align: center;
+	padding-bottom: 10px;
+	font-family: 'Lobster', cursive;
+	color: #1E2045;
+}
+
+.news{
+	font-family: 'Lobster', cursive;
+	float: center;
+	color: #1E2045;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.field{
+	padding-bottom: 10px;
+}
+
+.submit{
+
+	margin: 0 auto;
+		border: none;
+		padding: 1%;
+		background-color:  #FEFDF4;
+		color: #1E2045;
+		font-size: 1em;
+		border-radius: 5px;
+}
+
+.reset{
+		margin: 0 auto;
+		border: none;
+		padding: 1%;
+		background-color:  #FEFDF4;
+		color: #1E2045;
+		font-size: 1em;
+		border-radius: 5px;
+}
+
+
+form legend{
+	float: center;
+}
+
+.words{
+	padding-right: 60px;
+	padding-left: 60px;
+	font-size: 1.25em;
+	color: #1E2045;
+    font-family: 'Lobster', cursive;
+	text-align: center;
+}
+
+.swelcome{
+	font-size: 30px;
+	text-align: center;
+	padding-bottom: 10px;
+	font-family: 'Lobster', cursive;
+	color: #F0EAD6;
+}
+
+.swords{
+	padding-right: 60px;
+	padding-left: 60px;
+	font-size: 1.25em;
+	color: #F0EAD6;
+    font-family: 'Lobster', cursive;
+	text-align: center;
+}
+
+body{
+	
+}
+
+h1{
+	
+}
+
+header h1{
+	text-align: center;
+	color: #F0EAD6;
+	font-family: 'Julee', cursive;
+	padding-bottom: 10px;
+}
+
+h2{
+	
+}
+
+blockquote{
+	
+}
+
+table{
+	
+}
+
+nav{
+	font-family: 'Raleway', sans-serif;
+}
+
+.hnav{
+	padding: 5px;
+}
+
+.hnav a{ 
+	text-align: center;
+	padding-right: 30px;
+	font-size: 1em;
+}
+
+.fnav{
+	padding: 3px;
+}
+
+.fnav a{
+	font-size: 1em;
+	padding: 5px;
+}
+
+
+nav{
+	text-decoration: none;
+	background: #1E2045;
+	text-align: center;
+
+}
+
+nav ul li{
+	display: inline-block;
+}
+
+nav a{
+	text-decoration: none;
+	color: #F0EAD6;
+}
+
+footer{
+	text-align: center;
+	background: #F0EAD6;
+}
+
+footer h4{
+	padding-top: 10px;
+}
+
+footer h6{
+	padding-bottom: 20px;
+}
+
+
+
